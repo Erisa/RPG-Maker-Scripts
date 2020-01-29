@@ -36,15 +36,15 @@ To install an MV plugin: select "Raw" on the scripts page, go to save the page f
 This plugin lets you run events when loading save files.  
 This is done by specificying whether you want an event to load when loading a file, on a New Gamer or on both and then specifying the Common Event ID to be used.
 
--> [Download Script](https://github.com/Erisa/RPG-Maker-Scripts/blob/master/MV/event_on_load.js)
+-> [Download Plugin](https://github.com/Erisa/RPG-Maker-Scripts/blob/master/MV/event_on_load.js)
 
 ### Max File Size
 Simple plugin that allows you to change the max amount of file slots in your game.
 
--> [Download Script](https://github.com/Erisa/RPG-Maker-Scripts/blob/master/MV/max_file_size.js)
+-> [Download Plugin](https://github.com/Erisa/RPG-Maker-Scripts/blob/master/MV/max_file_size.js)
 
 
 ### Variable Event ID
 Simple plugin that makes a specified variable contain the map ID that the player is currently on. Used for referring to the ID in events without unnecessary script calls.
 
--> [Download Script](https://github.com/Erisa/RPG-Maker-Scripts/blob/master/MV/variable_event_id.js)
+-> [Download Plugin](https://github.com/Erisa/RPG-Maker-Scripts/blob/master/MV/variable_event_id.js)
